@@ -1,0 +1,15 @@
+/Users/troyyamashiro/Desktop/H3llo world/bin/Debug/net5.0/H3llo world.deps.json
+/Users/troyyamashiro/Desktop/H3llo world/bin/Debug/net5.0/H3llo world.runtimeconfig.json
+/Users/troyyamashiro/Desktop/H3llo world/bin/Debug/net5.0/H3llo world.runtimeconfig.dev.json
+/Users/troyyamashiro/Desktop/H3llo world/bin/Debug/net5.0/H3llo world.dll
+/Users/troyyamashiro/Desktop/H3llo world/bin/Debug/net5.0/ref/H3llo world.dll
+/Users/troyyamashiro/Desktop/H3llo world/bin/Debug/net5.0/H3llo world.pdb
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.csproj.AssemblyReference.cache
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.AssemblyInfoInputs.cache
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.AssemblyInfo.cs
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.csproj.CoreCompileInputs.cache
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.dll
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/ref/H3llo world.dll
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.pdb
+/Users/troyyamashiro/Desktop/H3llo world/obj/Debug/net5.0/H3llo world.genruntimeconfig.cache
